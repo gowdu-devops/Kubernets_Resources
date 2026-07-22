@@ -1,1 +1,6 @@
 # gg
+# Kubernetes Resources (Pod Level)
+
+## Overview
+
+<img width="1149" height="1369" alt="ChatGPT Image Jul 23, 2026, 01_16_45 AM" src="https://github.com/user-attachments/assets/f5597fe0-ac02-4ea4-a27b-b6afdd9452bc" />
