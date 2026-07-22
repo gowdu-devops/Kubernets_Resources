@@ -14,3 +14,7 @@
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 23, 2026, 01_39_43 AM" src="https://github.com/user-attachments/assets/f96045f6-1b25-4d5d-bd94-45074d0f39b1" />
 
+# Kubernetes NameSpace Resource Issues OverView
+<img width="1024" height="1536" alt="ChatGPT Image Jul 23, 2026, 01_44_37 AM" src="https://github.com/user-attachments/assets/878adc3d-fe0a-4eb4-b595-bdea1d079440" />
+
+
